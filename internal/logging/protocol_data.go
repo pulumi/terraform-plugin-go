@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hashicorp/terraform-plugin-go/tfprotov5"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov6"
+	"github.com/pulumi/terraform-plugin-go/tfprotov5"
+	"github.com/pulumi/terraform-plugin-go/tfprotov6"
 )
 
 const (

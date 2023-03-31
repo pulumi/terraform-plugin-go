@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/hashicorp/terraform-plugin-go/internal/logging"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov5/internal/diag"
+	"github.com/pulumi/terraform-plugin-go/internal/logging"
+	"github.com/pulumi/terraform-plugin-go/tfprotov5/internal/diag"
 )
 
 // DownstreamRequest sets a request duration start time context key and

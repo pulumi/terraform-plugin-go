@@ -3,7 +3,7 @@ package tfprotov6
 import (
 	"errors"
 
-	"github.com/hashicorp/terraform-plugin-go/tftypes"
+	"github.com/pulumi/terraform-plugin-go/tftypes"
 )
 
 // ErrUnknownDynamicValueType is returned when a DynamicValue has no MsgPack or

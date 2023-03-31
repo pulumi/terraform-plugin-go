@@ -3,8 +3,8 @@ package tfprotov6_test
 import (
 	"testing"
 
-	"github.com/hashicorp/terraform-plugin-go/tfprotov6"
-	"github.com/hashicorp/terraform-plugin-go/tftypes"
+	"github.com/pulumi/terraform-plugin-go/tfprotov6"
+	"github.com/pulumi/terraform-plugin-go/tftypes"
 )
 
 func TestSchemaAttributeValueType(t *testing.T) {

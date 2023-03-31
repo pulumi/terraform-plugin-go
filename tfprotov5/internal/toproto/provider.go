@@ -3,7 +3,7 @@ package toproto
 import (
 	"fmt"
 
-	"github.com/hashicorp/terraform-plugin-go/tfprotov5"
+	"github.com/pulumi/terraform-plugin-go/tfprotov5"
 	"github.com/pulumi/terraform/pkg/tfplugin5"
 )
 

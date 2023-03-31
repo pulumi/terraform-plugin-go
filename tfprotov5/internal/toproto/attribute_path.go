@@ -3,7 +3,7 @@ package toproto
 import (
 	"errors"
 
-	"github.com/hashicorp/terraform-plugin-go/tftypes"
+	"github.com/pulumi/terraform-plugin-go/tftypes"
 	"github.com/pulumi/terraform/pkg/tfplugin5"
 )
 

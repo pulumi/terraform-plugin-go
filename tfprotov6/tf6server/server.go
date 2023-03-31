@@ -13,11 +13,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hashicorp/terraform-plugin-go/internal/logging"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov6"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov6/internal/fromproto"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov6/internal/tf6serverlogging"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov6/internal/toproto"
+	"github.com/pulumi/terraform-plugin-go/internal/logging"
+	"github.com/pulumi/terraform-plugin-go/tfprotov6"
+	"github.com/pulumi/terraform-plugin-go/tfprotov6/internal/fromproto"
+	"github.com/pulumi/terraform-plugin-go/tfprotov6/internal/tf6serverlogging"
+	"github.com/pulumi/terraform-plugin-go/tfprotov6/internal/toproto"
 	"github.com/pulumi/terraform/pkg/tfplugin6"
 	"google.golang.org/grpc"
 

@@ -1,6 +1,6 @@
 package tfprotov6
 
-import "github.com/hashicorp/terraform-plugin-go/tftypes"
+import "github.com/pulumi/terraform-plugin-go/tftypes"
 
 const (
 	// SchemaNestedBlockNestingModeInvalid indicates that the nesting mode

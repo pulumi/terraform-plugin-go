@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-plugin-go
+module github.com/pulumi/terraform-plugin-go
 
 go 1.19
 

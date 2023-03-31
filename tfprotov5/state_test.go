@@ -6,8 +6,8 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 
-	"github.com/hashicorp/terraform-plugin-go/tfprotov5"
-	"github.com/hashicorp/terraform-plugin-go/tftypes"
+	"github.com/pulumi/terraform-plugin-go/tfprotov5"
+	"github.com/pulumi/terraform-plugin-go/tftypes"
 )
 
 func TestRawStateUnmarshalWithOpts(t *testing.T) {

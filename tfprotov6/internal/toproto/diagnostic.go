@@ -3,7 +3,7 @@ package toproto
 import (
 	"unicode/utf8"
 
-	"github.com/hashicorp/terraform-plugin-go/tfprotov6"
+	"github.com/pulumi/terraform-plugin-go/tfprotov6"
 	"github.com/pulumi/terraform/pkg/tfplugin6"
 )
 

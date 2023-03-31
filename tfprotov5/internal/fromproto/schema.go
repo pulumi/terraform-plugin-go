@@ -3,8 +3,8 @@ package fromproto
 import (
 	"fmt"
 
-	"github.com/hashicorp/terraform-plugin-go/tfprotov5"
-	"github.com/hashicorp/terraform-plugin-go/tftypes"
+	"github.com/pulumi/terraform-plugin-go/tfprotov5"
+	"github.com/pulumi/terraform-plugin-go/tftypes"
 	"github.com/pulumi/terraform/pkg/tfplugin5"
 )
 

@@ -6,10 +6,10 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/hashicorp/terraform-plugin-go/internal/logging"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov6"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov6/internal/diag"
-	"github.com/hashicorp/terraform-plugin-go/tftypes"
+	"github.com/pulumi/terraform-plugin-go/internal/logging"
+	"github.com/pulumi/terraform-plugin-go/tfprotov6"
+	"github.com/pulumi/terraform-plugin-go/tfprotov6/internal/diag"
+	"github.com/pulumi/terraform-plugin-go/tftypes"
 	"github.com/hashicorp/terraform-plugin-log/tfsdklog"
 	"github.com/hashicorp/terraform-plugin-log/tfsdklogtest"
 )

@@ -3,8 +3,8 @@ package diag
 import (
 	"context"
 
-	"github.com/hashicorp/terraform-plugin-go/internal/logging"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov6"
+	"github.com/pulumi/terraform-plugin-go/internal/logging"
+	"github.com/pulumi/terraform-plugin-go/tfprotov6"
 )
 
 // Diagnostics is a collection of Diagnostic.

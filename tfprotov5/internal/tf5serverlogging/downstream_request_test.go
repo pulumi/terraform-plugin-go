@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/hashicorp/terraform-plugin-go/internal/logging"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov5"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov5/internal/diag"
-	"github.com/hashicorp/terraform-plugin-go/tfprotov5/internal/tf5serverlogging"
+	"github.com/pulumi/terraform-plugin-go/internal/logging"
+	"github.com/pulumi/terraform-plugin-go/tfprotov5"
+	"github.com/pulumi/terraform-plugin-go/tfprotov5/internal/diag"
+	"github.com/pulumi/terraform-plugin-go/tfprotov5/internal/tf5serverlogging"
 	"github.com/hashicorp/terraform-plugin-log/tfsdklog"
 	"github.com/hashicorp/terraform-plugin-log/tfsdklogtest"
 )
